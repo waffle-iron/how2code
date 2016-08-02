@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Lorelo12/how2code.png?label=ready&title=Ready)](https://waffle.io/Lorelo12/how2code)
 # Information
 This Is the Official Repo of the How2Code.io Website.
  
